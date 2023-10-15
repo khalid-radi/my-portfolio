@@ -13,6 +13,7 @@
     margin: 0;
     padding: 0;
   }
+
   
   .swiper {
     width: 70%;
@@ -31,7 +32,7 @@
   .swiper-slide {
     text-align: center;
     font-size: 18px;
-
+    padding-top: 40px;
     /* Center slide text vertically */
     display: flex;
     justify-content: center;
@@ -64,5 +65,11 @@
     }
     .client__review{
         width: var(--container-width-sm);
+    }
+    #testimonials{
+      margin-top: 55rem;
+    }
+    .swiper-slide {
+      padding-top: 0;
     }
 }

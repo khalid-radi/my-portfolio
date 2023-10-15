@@ -46,6 +46,9 @@
         grid-template-columns: 1fr;
         gap: 1rem;
     }
+    #portfolio{
+        margin-top: 35rem;
+    }
 
 
 }
