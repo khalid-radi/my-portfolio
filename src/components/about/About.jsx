@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import me from '../../assets/profil-smile.jpg'
+import me from '../../assets/profil22.png'
 import {TbTelescope} from'react-icons/tb'
 import {FaLaptopCode} from'react-icons/fa'
 import {GiBrain} from'react-icons/gi'
